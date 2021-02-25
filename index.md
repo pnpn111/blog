@@ -1,3 +1,3 @@
 # GitHub 博客
 
-托管再[github](https://github.com)上的临时博客，发布一些一般内容以及一些不适合放国内网络的内容。
+托管在[github](https://github.com)上的临时博客，发布一些一般内容以及一些不适合放国内网络的内容。
